@@ -1,0 +1,17 @@
+Vad är skillnaden mellan ett asynkront och ett synkront anrop till servern?
+Ett asynkront anrop görs som en callback vid funktionsanrop om ett sådant anrop görs och synkrona anrop görs
+efter att tidigare anrop är klart. Ett asynkront anrop väntar ej på ett svar medans synkrona anrop väntar på
+svar från servern.
+
+Vad skulle hända ifall ni använde asynkrona anrop i er kod?
+Det blir fint och snabbt precis så som vi gör just nu.
+
+
+Vad skulle hända ifall ni använde synkrona anrop i er kod?
+Det skulle ta tid att göra någonting på sidan. Vi skulle behöva vänta varje gång
+vi gör ett anrop till servern innan vi gör ett nytt.
+
+
+Vad är/innebär AJAX?
+Det är en webbteknik på en klientsida som gör det möjligt att göra asynkrona anrop utan att störa
+den nuvarande hemsidedesignen.

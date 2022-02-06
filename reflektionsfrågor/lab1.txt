@@ -1,0 +1,9 @@
+###OBS! Svarat på nedanstående frågor muntligt.###
+
+Är det bra eller dåligt att webbläsaren automatiskt förändrar utseende och beteende på vissa HTML-element?
+
+Vad kan enligt er förbättras i HTML, JavaScript eller CSS syntax?
+
+Finns det något värde i att skriva testfall för HTML när man ändå kan testa det genom att öppna webbläsaren?
+
+Eftersom det inte finns code-coverage i selenium, när har man skrivit tillräckligt många testfall för att vara säker på att allt fungerar?

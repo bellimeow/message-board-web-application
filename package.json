@@ -1,0 +1,34 @@
+{
+  "name": "tdp013",
+  "version": "1.0.0",
+  "description": "Social media web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.ida.liu.se:isade842/TDP013.git"
+  },
+  "author": "Bella & Sabrina",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "events": "^3.0.0",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "mongodb": "^3.1.6"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "finalhandler": "^1.1.1",
+    "http-errors": "^1.7.1",
+    "json-parse-better-errors": "^1.0.2",
+    "mocha": "^5.2.0",
+    "nyc": "^13.1.0",
+    "superagent": "^4.0.0-beta.5"
+  },
+  "directories": {
+    "test": "test"
+  }
+}

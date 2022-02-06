@@ -1,0 +1,18 @@
+Hur svårt var det att hitta och installera den mjukvara som behövdes för att genomföra laborationen?
+NPM, Node.js, Express, Mocha, istanbul och MongoDB
+
+När vi skulle installera istanbul var informationen enkel att hitta. Dock var det svårt att få det att fungera
+eftersom det inte stod någonting om att nyc var tvungen att installeras. Vi labbade via windows hemifrån
+och då var det svårt att installera i princip alla tekniker. Med git bash fungerade det bättre, eftersom man
+för det mesta kunde använda unix-commandon för att installera allting.
+
+Hur känns det att hela tiden arbeta med callbacks?
+Det känns bra att kunna göra callbacks och att arbeta med det. Eftersom det gör UXn på hemsidan bättre.
+
+Hur stor nytta hade ni av code-coverage?
+Vi hade nytta av den på det sättet att det var lätt att se hur mycket vi hade testat och att i vårt fall
+krävdes fler tester. Det är ett bra mått.
+
+Vilka funderingar har ni kring systemet att spara data i JSON objekt i classifications jämfört med tabeller och kolumner?
+Det är något jobbigt att man måste kontrollera att det inte finns ett visst värde för en viss nyckel. Men det är lätt att
+hantera.
